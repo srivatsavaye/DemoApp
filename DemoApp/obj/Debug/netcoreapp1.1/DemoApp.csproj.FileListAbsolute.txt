@@ -1,0 +1,12 @@
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/bin/Debug/netcoreapp1.1/DemoApp.deps.json
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/bin/Debug/netcoreapp1.1/DemoApp.runtimeconfig.json
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/bin/Debug/netcoreapp1.1/DemoApp.runtimeconfig.dev.json
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/bin/Debug/netcoreapp1.1/DemoApp.dll
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/bin/Debug/netcoreapp1.1/DemoApp.pdb
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/obj/Debug/netcoreapp1.1/DemoApp.csprojResolveAssemblyReference.cache
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/obj/Debug/netcoreapp1.1/DemoApp.csproj.CoreCompileInputs.cache
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/obj/Debug/netcoreapp1.1/DemoApp.AssemblyInfo.cs
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/obj/Debug/netcoreapp1.1/DemoApp.dll
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/obj/Debug/netcoreapp1.1/DemoApp.pdb
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/bin/Debug/netcoreapp1.1/DemoLibrary.dll
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/DemoApp/bin/Debug/netcoreapp1.1/DemoLibrary.pdb

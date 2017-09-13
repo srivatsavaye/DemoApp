@@ -1,0 +1,8 @@
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/VisitorsPatternLibrary/bin/Debug/netstandard1.4/DemoLibrary.deps.json
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/VisitorsPatternLibrary/bin/Debug/netstandard1.4/DemoLibrary.dll
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/VisitorsPatternLibrary/bin/Debug/netstandard1.4/DemoLibrary.pdb
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/VisitorsPatternLibrary/obj/Debug/netstandard1.4/DemoLibrary.csprojResolveAssemblyReference.cache
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/VisitorsPatternLibrary/obj/Debug/netstandard1.4/DemoLibrary.csproj.CoreCompileInputs.cache
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/VisitorsPatternLibrary/obj/Debug/netstandard1.4/DemoLibrary.AssemblyInfo.cs
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/VisitorsPatternLibrary/obj/Debug/netstandard1.4/DemoLibrary.dll
+/Users/rajusrivatsavaye/Documents/Code/Personal/DemoApp/VisitorsPatternLibrary/obj/Debug/netstandard1.4/DemoLibrary.pdb

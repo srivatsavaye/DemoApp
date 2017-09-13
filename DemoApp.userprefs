@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C6DD99FC-F1D9-40C5-877F-14477C49997E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VisitorPatternLibrary/IVisitor.cs">
+    <Files>
+      <File FileName="VisitorPatternLibrary/IVisitor.cs" Line="12" Column="1" />
+      <File FileName="VisitorPatternLibrary/Document.cs" Line="20" Column="26" />
+      <File FileName="VisitorPatternLibrary/DocumentPart.cs" Line="35" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DemoApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
